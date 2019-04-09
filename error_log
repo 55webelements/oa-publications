@@ -1,0 +1,12 @@
+[17-Aug-2016 09:37:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lagadealsadm/public_html/administrator/application/modules/products/models/Products_model.php(1) : eval()'d code on line 1
+[17-Aug-2016 09:37:47 UTC] PHP Fatal error:  Class 'Products_model' not found in /home/lagadealsadm/public_html/administrator/application/third_party/MX/Loader.php on line 225
+[17-Aug-2016 09:37:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lagadealsadm/public_html/administrator/application/modules/products/models/Products_model.php(1) : eval()'d code on line 1
+[17-Aug-2016 09:37:54 UTC] PHP Fatal error:  Class 'Products_model' not found in /home/lagadealsadm/public_html/administrator/application/third_party/MX/Loader.php on line 225
+[17-Aug-2016 09:38:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lagadealsadm/public_html/administrator/application/modules/products/models/Products_model.php(1) : eval()'d code on line 1
+[17-Aug-2016 09:38:32 UTC] PHP Fatal error:  Class 'Products_model' not found in /home/lagadealsadm/public_html/administrator/application/third_party/MX/Loader.php on line 225
+[17-Aug-2016 09:39:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lagadealsadm/public_html/administrator/application/modules/products/models/Products_model.php(1) : eval()'d code on line 1
+[17-Aug-2016 09:39:37 UTC] PHP Fatal error:  Class 'Products_model' not found in /home/lagadealsadm/public_html/administrator/application/third_party/MX/Loader.php on line 225
+[04-Apr-2017 05:12:51 Etc/GMT] PHP Fatal error:  Call to a member function totalInfoById() on a non-object in /home/a9iceonj/public_html/hostgenie.in/phpdev/nextyenti/application/modules/onlinecourses/controllers/Onlinecourses.php on line 79
+[04-Apr-2017 05:13:11 Etc/GMT] PHP Fatal error:  Call to a member function totalInfoById() on a non-object in /home/a9iceonj/public_html/hostgenie.in/phpdev/nextyenti/application/modules/onlinecourses/controllers/Onlinecourses.php on line 79
+[04-Apr-2017 05:13:48 Etc/GMT] PHP Fatal error:  Call to a member function totalInfoById() on a non-object in /home/a9iceonj/public_html/hostgenie.in/phpdev/nextyenti/application/modules/onlinecourses/controllers/Onlinecourses.php on line 79
+[04-Apr-2017 05:14:03 Etc/GMT] PHP Fatal error:  Call to a member function totalInfoById() on a non-object in /home/a9iceonj/public_html/hostgenie.in/phpdev/nextyenti/application/modules/onlinecourses/controllers/Onlinecourses.php on line 79
